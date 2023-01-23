@@ -1,0 +1,22 @@
+{
+  "name": "calculatrice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keeptoo/calculette.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keeptoo/calculette/issues"
+  },
+  "homepage": "https://github.com/Keeptoo/calculette#readme",
+  "dependencies": {
+    "node": "^19.4.0"
+  }
+}
